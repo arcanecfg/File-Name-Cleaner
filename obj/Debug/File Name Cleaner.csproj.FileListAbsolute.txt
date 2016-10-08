@@ -1,0 +1,18 @@
+E:\CPP-Projects\File Name Cleaner\bin\Debug\File Name Cleaner.exe.config
+E:\CPP-Projects\File Name Cleaner\bin\Debug\File Name Cleaner.exe
+E:\CPP-Projects\File Name Cleaner\bin\Debug\File Name Cleaner.pdb
+E:\CPP-Projects\File Name Cleaner\obj\Debug\File Name Cleaner.csprojResolveAssemblyReference.cache
+E:\CPP-Projects\File Name Cleaner\obj\Debug\File_Name_Cleaner.Form1.resources
+E:\CPP-Projects\File Name Cleaner\obj\Debug\File_Name_Cleaner.Properties.Resources.resources
+E:\CPP-Projects\File Name Cleaner\obj\Debug\File Name Cleaner.csproj.GenerateResource.Cache
+E:\CPP-Projects\File Name Cleaner\obj\Debug\File Name Cleaner.exe
+E:\CPP-Projects\File Name Cleaner\obj\Debug\File Name Cleaner.pdb
+E:\C#-Projects\File Name Cleaner\bin\Debug\File Name Cleaner.exe.config
+E:\C#-Projects\File Name Cleaner\obj\Debug\File Name Cleaner.exe
+E:\C#-Projects\File Name Cleaner\obj\Debug\File Name Cleaner.pdb
+E:\C#-Projects\File Name Cleaner\bin\Debug\File Name Cleaner.exe
+E:\C#-Projects\File Name Cleaner\bin\Debug\File Name Cleaner.pdb
+E:\C#-Projects\File Name Cleaner\obj\Debug\File Name Cleaner.csprojResolveAssemblyReference.cache
+E:\C#-Projects\File Name Cleaner\obj\Debug\File_Name_Cleaner.Properties.Resources.resources
+E:\C#-Projects\File Name Cleaner\obj\Debug\File Name Cleaner.csproj.GenerateResource.Cache
+E:\C#-Projects\File Name Cleaner\obj\Debug\File_Name_Cleaner.frmFileNameCleaner.resources
